@@ -1,2 +1,15 @@
-# PrBasics
+# Programming Basics
+
 Programming Basics - I course II term
+
+
+This repository contains practical assignments, lecture notes, and mini-projects from a university course on Python programming. The codebase is organized chronologically by week.
+
+## Repository Structure
+
+* **[week1/](week1/) - [week5/](week5/)**: Introductory Python scripts and basic practical assignments.
+* **[week6/](week6/)**: Midterm examination script (`midterm.py`) and lecture materials.
+* **[week7/](week7/)**: Practical assignments.
+* **[week8/](week8/)**: Advanced topics focusing on data structures (lists, dictionaries). Notable scripts include:
+  * **[Phonebook Application](week8/18.03_pr2/phonebook.py)**: A command-line interface program for managing contacts (add, search, delete).
+  * **[Funding Calculator](week8/18.03_pr1.py)**: An algorithm to determine student funding eligibility based on GPA and minimum grade requirements.
